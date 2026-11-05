@@ -8,7 +8,7 @@ export default function App(){
         <View style={myStyle.container}>
             
             {/* แสดงข้อความ */}
-            <Text style={myStyle.title}>Witsarut</Text>
+            <Text style={myStyle.title}>Witsarut Yuensuk</Text>
 
             {/* แสดงภาพจากไฟล์ */}
             <Image 
